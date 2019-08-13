@@ -1,2 +1,3 @@
 # product-landing
-My first web page using only basic HTML and CSS
+My first web page using only vanilla HTML & CSS
+Demo: https://chrisbrinkmann.github.io/product-landing/
